@@ -4,7 +4,7 @@ Ce dépôt contient le TP de Deep Learning portant sur la classification multi-c
 
 ## Contenu du projet
 
-- `TP_Deep_Learning_DryBean.ipynb` / `Untitled6.ipynb` : Le notebook Jupyter contenant tout le code exécuté et commenté.
+- `TP_Deep_Learning_DryBean.ipynb` : Le notebook Jupyter contenant tout le code exécuté et commenté.
 - `modele_drybean.keras` : Le modèle MLP final sauvegardé après entraînement avec *Early Stopping*.
 - `scaler_drybean.pkl` : Le `StandardScaler` ajusté sur les données d'entraînement.
 - `classes_drybean.json` : La liste des 7 classes de haricots (`BARBUNYA`, `BOMBAY`, `CALI`, `DERMASON`, `HOROZ`, `SEKER`, `SIRA`).
